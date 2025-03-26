@@ -215,42 +215,7 @@ print("Qualidade do vinho (resultado regressão KNN): ", predicao[0])
     Qualidade do vinho (tabela):  6
     Qualidade do vinho (resultado regressão KNN):  6.052631578947368
     
-
-    C:\Users\caios\anaconda3\Lib\site-packages\sklearn\base.py:464: UserWarning: X does not have valid feature names, but KNeighborsRegressor was fitted with feature names
-      warnings.warn(
     
 
 
-```python
 
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
